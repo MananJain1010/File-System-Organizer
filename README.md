@@ -64,6 +64,7 @@ Support for custom file type categories
 Option to move instead of copy files
 Option to undo the last organize operation
 
+
 ✨ Author
 Manan Jain
 GitHub: https://github.com/MananJain1010
