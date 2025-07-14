@@ -40,31 +40,16 @@ File-System-Organizer/
 ## ⚙️ How to Setup and Run
 
 ### 1. Clone Repository
-```bash
 git clone https://github.com/MananJain1010/File-System-Organizer.git
 cd File-System-Organizer
 npm install
 
 2. Run Commands
 ✅ Show Directory Tree Structure
-
-bash
-Copy
-Edit
 node main.js tree <directory-path>
+
 ✅ Organize Files in Folder
-
-bash
-Copy
-Edit
 node main.js organize <directory-path>
+
 ✅ Show Help Guide
-
-bash
-Copy
-Edit
 node main.js help
-
-✨ Author
-Manan Jain
-GitHub: https://github.com/MananJain1010
