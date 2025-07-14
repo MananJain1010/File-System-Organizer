@@ -54,11 +54,14 @@ node main.js organize <directory-path>
 ✅ Show Help Guide
 node main.js help
 
+
+
+
+
 🎁 Future Improvements
+
 Support for custom file type categories
-
 Option to move instead of copy files
-
 Option to undo the last organize operation
 
 ✨ Author
